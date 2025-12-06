@@ -82,10 +82,3 @@ Standard moderne pour documenter :
 
 ### ✔ Documentation du code  
 Facilite la compréhension et la maintenance.
-
-### ✔ Rapport critique  
-Démontre la capacité de l’étudiant à évaluer la qualité et les limites du modèle, ce qui est une compétence professionnelle clé.
-
----
-
-**Cette justification théorique couvre les exigences du sujet tout en restant concise et alignée sur les standards industriels du Machine Learning.**
