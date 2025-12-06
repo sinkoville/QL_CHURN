@@ -1,4 +1,4 @@
-# Justification théorique – Grille d’audit (Version courte)
+# Justification théorique – Grille d’audit
 
 La justification de cette grille s’appuie sur des recommandations issues des bonnes pratiques MLOps (Google, Microsoft TDSP), de la gestion de la qualité des données (ISO/IEC 25012) et de standards modernes de validation des modèles (Model Cards Framework).
 
