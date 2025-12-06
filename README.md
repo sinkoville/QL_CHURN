@@ -4,7 +4,7 @@ Ce projet a été réalisé dans le cadre du module Qualité du Livrable – MDS
 L’objectif est de construire un mini-projet complet de machine learning permettant de prédire le churn client (résiliation) à partir d’un dataset synthétique généré pour l’étude.
 
 Le projet intègre :  \
-✔ un dataset propre
+✔ un dataset propre  
 ✔ un pipeline ML robuste
 ✔ un modèle baseline + modèle performant
 ✔ des métriques complètes
