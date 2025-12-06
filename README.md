@@ -86,3 +86,4 @@ cardinalité de colonnes catégorielles
 seuil d’acceptable pour les valeurs manquantes
 
 cohérence tenure → total_charge
+ Model Card : [Consulter ici](model_card.md)
