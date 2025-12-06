@@ -1,9 +1,8 @@
 # Rapport Critique – Prediction Churn  
-*(Version 4 pages)*
+
 
 ## 1. Introduction
 
-Ce rapport présente un audit critique du projet *Prediction Churn*, réalisé dans le cadre du module Qualité du Livrable – MDSIA2025.  
 L’objectif est de prédire la résiliation client (churn) au moyen d'un pipeline complet de Machine Learning, incluant gestion de la qualité des données, audit, documentation et outil avancé.
 
 Le rapport met en avant :  
@@ -12,7 +11,6 @@ Le rapport met en avant :
 3) les risques d'utilisation en production,  
 4) les pistes d'amélioration envisageables.
 
----
 
 ## 2. Points forts du livrable
 
@@ -56,7 +54,6 @@ Great Expectations ajoute un contrôle qualité automatisé :
 - vérification de cohérence,  
 - génération de rapports HTML.
 
----
 
 ## 3. Limites du livrable
 
@@ -79,7 +76,6 @@ La Model Card pourrait être enrichie avec :
 - un schéma d’architecture,  
 - plus de détails sur l’explicabilité.
 
----
 
 ## 4. Risques en production
 
@@ -98,7 +94,6 @@ Un modèle imprécis peut provoquer :
 ### 4.4 Interprétabilité limitée  
 Le Random Forest, performant mais non interprétable par défaut, demanderait SHAP/LIME pour être vraiment transparent.
 
----
 
 ## 5. Pistes d'amélioration
 
@@ -122,12 +117,9 @@ Le Random Forest, performant mais non interprétable par défaut, demanderait SH
 - Stress-tests supplémentaires : bruit, colonnes manquantes, permutations.  
 - Calibration des seuils pour maximiser Recall ou F1 selon le besoin métier.
 
----
 
 ## 6. Conclusion
 
 Le projet *Prediction Churn* constitue un livrable solide, intégrant pipeline, modélisation reproductible, audit structuré, documentation professionnelle et contrôle qualité automatisé.  
-Ses limites sont principalement liées au dataset synthétique et à l’absence de validation/fairness avancées.  
-
-Ce travail constitue toutefois une base robuste pour évoluer vers un projet MLOps réellement industrialisable.
+Ses limites sont principalement liées au dataset synthétique et à l’absence de validation/fairness avancées.
 
